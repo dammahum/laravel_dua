@@ -1,0 +1,9 @@
+/vendor
+.env
+/app/Http/Controllers/StudentController.php
+/app/Http/Controllers/CustomerController.php
+/app/Http/Controllers/Controller.php
+/app/Http/Controllers/UserController.php
+/app/Http/Santri.php
+/app/Http/User.php
+/app/Http/Warga.php
